@@ -1,0 +1,6 @@
+Feedback based 	: 25.7 
+Feedback Free 	: 22.41
+Optimal  0s 	: 26.21
+Optimal  0.5s 	: 66.01
+Optimal  1s 	: 44.36
+Optimal  2s 	: 72.00
